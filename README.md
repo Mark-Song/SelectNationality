@@ -1,2 +1,3 @@
 # SelectNationality
 Html5 SelectNationality
+利用jq,jqMobileUI后期修改成原生js的
